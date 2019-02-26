@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Storefront.Dbup": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Server=storefront-sql.database.windows.net;Database=Storefront;User Id=jshigley;Password=h2Akvm5ZaY3786G\""
+    }
+  }
+}
